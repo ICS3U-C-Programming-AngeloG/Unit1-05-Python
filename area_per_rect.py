@@ -8,7 +8,7 @@ def main():
     print("For a rectangle with a length of 7cm and a width of 5cm:")
     print()
     print("The area is: {}cm²".format(7 * 5))
-    print("The perimeter is: {}cm".format(2 * (5 + 3)))
+    print("The perimeter is: {}cm".format(2 * (7 + 5)))
 
 
 if __name__ == "__main__":
